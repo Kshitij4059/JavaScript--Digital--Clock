@@ -1,0 +1,23 @@
+body
+h1 {
+    text-align: center;
+    color: white;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar{
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.alert{
+    border-radius: 15px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+    text-align: center;
+}
+
+#time{
+    font-weight: bold;
+    color: #0d6efd;
+    font-size: 1.3rem;
+}
